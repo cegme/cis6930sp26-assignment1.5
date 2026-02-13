@@ -99,7 +99,7 @@ The `-J` flag (ProxyJump) connects through the login node directly to the comput
 
 #### Step 4: Open the Inspector
 
-Open your browser and go to: **http://localhost:6274**
+Open your browser and go to the url that was output by the the dev server. Is should look like `http://localhost:6274/?MCP_PROXY_AUTH_TOKEN=e2a71ba1e83a76dd0ea24fed08b1d62413d5837fbea81cbc41a9233ae169f989` : **http://localhost:6274?MCP_PROXY_AUTH_TOKEN={CODE}**
 
 You should see the MCP Inspector interface:
 
